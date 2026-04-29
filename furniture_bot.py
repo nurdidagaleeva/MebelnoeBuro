@@ -20,7 +20,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Вставь токен от @BotFather
+BOT_TOKEN = "8723567883:AAEw-xE5VIpwHfz8-Oo391V2BLrpKYeYLVQ"  # Вставь токен от @BotFather
 
 # ─── Состояния FSM для оформления заказа ───────────────────────────────────
 
